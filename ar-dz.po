@@ -1,0 +1,412 @@
+# 
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-07T15:50:09Z\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Hello %(name)s"
+msgstr "مرحباً بك %(name)s،"
+
+msgid "If you need further assistance, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888"
+msgstr "إذا كنت بحاجة إلى أي مساعدة، يرجى التواصل مع فريق خدمة العملاء لدينا على care@noon.com، <a href=\"mailto:care@noon.com\"> الدردشة </a> الفورية <a href=\"%(website_url)s\" target=\"_blank\"> معنا </a> عبر الإنترنت أو الاتصال بنا على 80038888"
+
+msgid "Give your home the ultimate upgrade"
+msgstr "تصميمات مذهلة مكانها بيتك"
+
+msgid "AED %(total)s"
+msgstr "%(total)s د. إ."
+
+msgid "We'll also throw in <strong>special offers</strong> because we think you're awesome."
+msgstr "ولأنك الأفضل، ستحصل دائماً منا على <strong>عروض خاصة</strong> من أجلك."
+
+msgid "View Order Details"
+msgstr "معاينة تفاصيل الطلب"
+
+msgid "What you want to wear, right here, right now"
+msgstr "كل ما تريده لدينا وبين يديك"
+
+msgid "We regret to inform you that your order (%(order_nr)s) has been cancelled."
+msgstr "معذرة، ولكن تم إلغاء طلبيتك رقم %(order_nr)s. &nbsp;"
+
+msgid "Home &amp; Kitchen"
+msgstr "المنزل والمطبخ"
+
+msgid "Unfortunately, the seller wasn’t able to fulfill your order. We sincerely apologise for the inconvenience caused."
+msgstr "لسوء الحظ، لم يتمكن البائع من توفير طلبيتك. نحن نعتذر عن أي إزعاج نتج عن ذلك."
+
+msgid "Unfortunately, there was a quality control problem that prevents us from fulfilling your order. We sincerely apologise for the inconvenience caused."
+msgstr "معذرة، حدثت مشكلة في مراقبة الجودة والتي تمنعنا من تنفيذ طلبيتك، نعتذر عن أي إزعاج نتج عن ذلك."
+
+msgid "Hello! Your noon order (%(order_nr)s) has been delivered. For support, contact customer service on 800-38888."
+msgstr "مرحباً، تم توصيل طلبيتك %(order_nr)s من نون. للحصول على المساعدة، يرجى الاتصال بخدمة العملاء على الرقم 80038888."
+
+msgid "Your noon order has been delivered!"
+msgstr "تم توصيل طلبيتك"
+
+msgid "Your noon order (%(order_nr)s) has been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgstr "تم شحن طلبيتك %(order_nr)s وستصلك قبل الساعة %(timeslot)s يوم %(date)s. لاختيار ميعاد تسليم مختلف، قم بزيارة %(shipment_url)s"
+
+msgid "You are receiving this email as <strong>%(email)s</strong> is registered on noon.com."
+msgstr "أنت تتلقى هذه الرسالة الإلكترونية لأن <strong> %(email)s </strong> مُسجل لدينا على noon.com."
+
+msgid "Electronics"
+msgstr "الإلكترونيات"
+
+msgid "HELP CENTRE"
+msgstr "مركز المساعدة"
+
+msgid "If you need further assistance, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888."
+msgstr "إذا كنت بحاجة إلى أي مساعدة، يرجى التواصل مع فريق خدمة العملاء لدينا على care@noon.com، <a href=\"mailto:care@noon.com\"> الدردشة </a> الفورية <a href=\"%(website_url)s\" target=\"_blank\"> معنا </a> عبر الإنترنت أو الاتصال بنا على 80038888."
+
+msgid "<a href=\"%(shipment_url)s\" target=\"_blank\" style=\"color: #ffffff; text-decoration:none;\">Track this Order</a>"
+msgstr "<a href=\"%(shipment_url)s\" target=\"_blank\" style=\"color: #ffffff; text-decoration:none;\">تتبع هذه الطلبية</a>"
+
+msgid "Processing"
+msgstr "قيد التنفيذ"
+
+msgid "Your order %(order_nr)s has been confirmed"
+msgstr "تم تأكيد طلبيتك رقم %(order_nr)s"
+
+msgid "AED %(subtotal)s"
+msgstr "%(subtotal)s د. إ."
+
+msgid "Gadgets you'll Need. Want. Love."
+msgstr "أحدث الأجهزة التي لا غنى عنها"
+
+msgid "The noon team"
+msgstr "فريق نون"
+
+msgid "Thank you for your order!"
+msgstr "شكراً لاختيارك نون!"
+
+msgid "View Return Request"
+msgstr "عرض طلب الإرجاع"
+
+msgid "If you need any assistance with your return request, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888"
+msgstr "إذا كنت بحاجة إلى أي مساعدة بخصوص طلب الإرجاع، فيرجى الاتصال بفريق خدمة العملاء لدينا على care@noon.com أو الدردشة <a href=\"mailto:care@noon.com\"> الفورية </a> معنا <a href=\"%(website_url)s\" target=\"_blank\"> عبر </a> الإنترنت أو الاتصال بنا على 80038888"
+
+msgid "Thank you for choosing noon. We have received your order (%(order_nr)s) and will ship it out soon. For support, contact customer service on 800-38888."
+msgstr "شكراً لاختيارك نون. لقد تلقينا طلبيتك %(order_nr)s وسيتم شحنها قريباً. لمزيد من المعلومات، يرجى الاتصال بخدمة العملاء على الهاتف رقم 80038888."
+
+msgid "We'll send you a shipping confirmation email as soon as your order is on its way."
+msgstr "سنرسل إليك بريداً إلكترونياً للتأكيد بمجرد أن تكون الطلبية في طريقها إليك."
+
+msgid "Now that you're on board, you're about to discover more of what noon has to offer."
+msgstr "ستكتشف الآن المزيد عما يمكننا تقديمه لك."
+
+msgid "Order No:"
+msgstr "رقم الطلبية:"
+
+msgid "We hope you enjoyed shopping with us."
+msgstr "نأمل أن تكون قد استمتعت بالتسوق معنا."
+
+msgid "Shipping Fee"
+msgstr "رسوم الشحن"
+
+msgid "Reset your noon password"
+msgstr "إعادة تعيين كلمة سر نون الخاصة بك"
+
+msgid "Time to come up with a more memorable password"
+msgstr "حان الوقت لكتابة كلمة سر لا تنسى"
+
+msgid "Sold by %(seller)s"
+msgstr "البائع %(seller)s"
+
+msgid "Pickup Location"
+msgstr "مكان الاستلام"
+
+msgid "PHONE SUPPORT"
+msgstr "الدعم عبر الهاتف"
+
+msgid "Ordered"
+msgstr "تم الطلب"
+
+msgid "We all forget sometimes. Don’t worry, we’re here to save the day, click the button below to update your password."
+msgstr "قد ننسى في بعض الأحيان. ولكن لا تقلق، نحن هنا للمساعدة، انقر فوق الزر أدناه لتحديث كلمة السر الخاصة بك."
+
+msgid "Your order (%(order_nr)s) has been cancelled"
+msgstr "تم إلغاء طلبيتك %(order_nr)s"
+
+msgid "Want to be the first to know about the <strong>next sale</strong>? We'll make it happen."
+msgstr "معنا ستكون أول من يعلم بعروضنا وتخفيضاتنا القادمة. <strong> </strong>"
+
+msgid "Thank You,"
+msgstr "شكراً لك،"
+
+msgid "Your noon order (%(order_nr)s) has been successfully delivered to you."
+msgstr "تمام التمام! تم توصيل طلبيتك %(order_nr)s من نون بنجاح."
+
+msgid "Your noon order has been shipped!"
+msgstr "تم شحن طلبيتك!"
+
+msgid "Soon, so very soon."
+msgstr "تمام التمام! ستسلمها قريباً"
+
+msgid "Delivered"
+msgstr "تم التسليم"
+
+msgid "If you need any further assistance with your order, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888"
+msgstr "إذا كنت بحاجة إلى أي مساعدة، يرجى التواصل مع فريق خدمة العملاء لدينا على <a href=\"mailto:care@noon.com\">care@noon.com</a>، أو <a href=\"%(website_url)s\" target=\"_blank\">الدردشة الفورية</a> معنا عبر الإنترنت أو الاتصال بنا على 80038888"
+
+msgid "We'll notify you when your order is shipped out."
+msgstr "سنقوم بإعلامك عندما يتم شحن طلبيتك."
+
+msgid "Receive it by %(delivery_date)s"
+msgstr "تصلك يوم %(delivery_date)s"
+
+msgid "Your noon order %(number)s has been confirmed and should be with you by 3 days!"
+msgstr "تم تأكيد طلبيتك %(number)s من نون وينبغي أن تتسلمها في غضون 3 أيام."
+
+msgid "noon"
+msgstr "نون"
+
+msgid "Shipping Address"
+msgstr "عنوان الشحن"
+
+msgid "We sincerely apologise for the inconvenience caused."
+msgstr "نعتذر عن أي إزعاج."
+
+msgid "Your noon return request"
+msgstr "طلب الإرجاع الخاص بك على نون"
+
+msgid "Sorted. Your order has been delivered."
+msgstr "تم تسليم طلبيتك بنجاح."
+
+msgid "Terms of Sale"
+msgstr "شروط البيع"
+
+msgid "You requested for this cancellation."
+msgstr "بعد أن طلبت إجراء الإلغاء."
+
+msgid "Your order has been cancelled"
+msgstr "تم إلغاء طلبيتك"
+
+msgid "Reset Password"
+msgstr "إعادة تعيين كلمة السر"
+
+msgid "If you need any assistance, please get in touch with our seller support team at <a href=\"mailto:seller@noon.com\">seller@noon.com</a> or call us on 800-36006."
+msgstr "إذا كنت بحاجة إلى أي مساعدة، يرجى التواصل مع فريق دعم البائعين لدينا على seller@noon.com <a href=\"mailto:seller@noon.com\"> أو </a> الاتصال بنا على 80036006"
+
+msgid "Payment:"
+msgstr "طريقة الدفع:"
+
+msgid "You've got great taste! Thank you for shopping with us."
+msgstr "لديك ذوق رفيع! شكراً لتسوقك معنا."
+
+msgid "Baby Products"
+msgstr "منتجات الأطفال"
+
+msgid "Terms of Use"
+msgstr "شروط الاستخدام"
+
+msgid "AED %(shipping_fee)s"
+msgstr "%(shipping_fee)s د. إ."
+
+msgid "If you need any assistance, please get in touch with our customer service team at care@noon.com, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888."
+msgstr "إذا كنت بحاجة إلى أي مساعدة، يرجى التواصل مع فريق خدمة العملاء لدينا على care@noon.com أو <a href=\"%(website_url)s\" target=\"_blank\"> الدردشة </a> الفورية معنا عبر الإنترنت أو الاتصال بنا على 80038888."
+
+msgid "Order Total:"
+msgstr "مجموع الطلبية:"
+
+msgid "Fashion"
+msgstr "الأزياء"
+
+msgid "Hello! Please use %(code)s to verify your phone number"
+msgstr "مرحباً! يرجى استخدام %(code)s للتحقق من رقم الهاتف"
+
+msgid "Quantity : %(qty)s"
+msgstr "الكمية: %(qty)s"
+
+msgid "We wanted to let you know that your noon order (%(order_nr)s), has been dispatched and will be delivered to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgstr "نحن سعداء لإبلاغك بأنه تم إرسال طلبيتك %(order_nr)s وسوف يتم تسليمها لك قبل الساعة %(timeslot)s يوم %(date)s ."
+
+msgid "Welcome to noon!"
+msgstr "مرحباً بك في نون"
+
+msgid "If you prefer to choose another slot for your delivery, please visit:"
+msgstr "إذا كنت تفضل اختيار ميعاد آخر للتسليم، فيرجى زيارة:"
+
+msgid "We regret to inform you that your order (%(order_nr)s) has been cancelled. For support, contact customer service on 800-38888."
+msgstr "معذرة تم إلغاء طلبيتك %(order_nr)s. لمزيد من المعلومات، يرجى الاتصال بخدمة العملاء على الرقم 80038888."
+
+msgid "Return requested."
+msgstr "تم طلب الإرجاع."
+
+msgid "Your noon order (%(number)s) has been received and is currently being processed by our team."
+msgstr "تم استلام طلبيتك %(number)s ، ويقوم حالياً فريق العمل لدينا بتحضيرها."
+
+msgid "Beauty"
+msgstr "الجمال"
+
+msgid "Thank you for choosing noon."
+msgstr "شكراً لاختيارك نون!"
+
+msgid "Your beauty kit heroes are here"
+msgstr "أرقى مستحضرات التجميل لدينا من أجلك"
+
+msgid "Order Number"
+msgstr "رقم الطلبية"
+
+msgid "AED %(price)s"
+msgstr "%(price)s د. إ."
+
+msgid "Your order %(order_nr)s has been confirmed successfully!"
+msgstr "تم تأكيد طلبيتك %(order_nr)s بنجاح!"
+
+msgid "EMAIL SUPPORT"
+msgstr "الدعم عبر البريد الإلكتروني"
+
+msgid "Shipped"
+msgstr "تم الشحن"
+
+msgid "Subtotal"
+msgstr "المجموع الفرعي"
+
+msgid "SHIPPING ADDRESS"
+msgstr "عنوان الشحن"
+
+msgid "© 2017 noon. Noon E Commerce Owned By Noon AD Holdings One Person Company LLC P.O. Box 9421, Dubai, United Arab Emirates."
+msgstr "© 2017 نون. شركة نون للتجارة الإلكترونية المملوكة من قِبل نون AD القابضة شركة شخص واحد ذ.م.م. صندوق بريد 9421، دبي، الإمارات العربية المتحدة."
+
+msgid "Total"
+msgstr "المجموع"
+
+msgid "Return Request"
+msgstr "طلب الإرجاع"
+
+msgid "ORDER SUMMARY"
+msgstr "ملخص الطلبية"
+
+msgid "Your order confirmation is here"
+msgstr "تأكيد طلبيتك هنا"
+
+msgid "Want an alert on legendary <strong>new brands</strong>? You've got it!"
+msgstr "سنقوم بإعلامك عند انضمام أرقى <strong> الماركات التجارية </strong> إلينا!"
+
+msgid "Explore"
+msgstr "تصفح"
+
+msgid "We regret to inform you that an item from order (%(order_nr)s) has been cancelled."
+msgid_plural "We regret to inform you that a few items from order (%(order_nr)s) have been cancelled."
+msgstr[0] ""
+msgstr[1] "معذرة تم إلغاء منتج من طلبيتك رقم %(order_nr)s. &nbsp;"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "معذرة تم إلغاء بعض المنتجات من الطلبية رقم %(order_nr)s. &nbsp;"
+
+msgid "An item from your noon order (%(order_nr)s) has been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgid_plural "Items from your noon order (%(order_nr)s) have been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgstr[0] ""
+msgstr[1] "تم شحن منتج من طلبيتك %(order_nr)s وستصلك قبل الساعة %(timeslot)s يوم %(date)s. لاختيار ميعاد تسليم مختلف، قم بزيارة %(shipment_url)s"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "تم شحن بعض المنتجات من طلبيتك %(order_nr)s وستصلك قبل الساعة %(timeslot)s يوم %(date)s. لاختيار ميعاد تسليم مختلف، قم بزيارة %(shipment_url)s"
+
+msgid "We have received a return request for an item you ordered from noon. We will reach out to schedule a pickup."
+msgid_plural "We have received a return request for items you ordered from noon. We will reach out to schedule a pickup."
+msgstr[0] ""
+msgstr[1] "لقد تلقينا طلب إرجاع لمنتج طلبته من نون. أحد أفراد الفريق لدينا سيتواصل معك قريباً لتحديد موعد لاستلامه."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "لقد تلقينا طلب إرجاع لمنتجات طلبتها من نون. أحد أفراد الفريق لدينا سيتواصل معك قريباً لتحديد موعد للاستلام."
+
+msgid "An item from order (%(order_nr)s) has been cancelled"
+msgid_plural "A few items from order (%(order_nr)s) have been cancelled"
+msgstr[0] ""
+msgstr[1] "تم إلغاء منتج من الطلبية %(order_nr)s"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "تم إلغاء بعض المنتجات من الطلبية %(order_nr)s"
+
+msgid "We wanted to let you know that an item from noon order (%(order_nr)s), has been dispatched. We will deliver it to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgid_plural "We wanted to let you know that items from your noon order (%(order_nr)s), have been dispatched. We will deliver them to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgstr[0] ""
+msgstr[1] "نحن سعداء لإبلاغك بأنه تم إرسال منتج من الطلبية %(order_nr)s ، وسيتم تسليمها لك قبل الساعة %(timeslot)s يوم %(date)s ."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "نحن سعداء لإبلاغك بأنه تم إرسال بعض المنتجات من طلبيتك %(order_nr)s ، وسيتم تسليمها لك قبل الساعة %(timeslot)s يوم %(date)s ."
+
+msgid "Hello! An item from your noon order (%(order_nr)s) has been delivered. For support, contact customer service on 800-38888."
+msgid_plural "Hello! Items from your noon order (%(order_nr)s) have been delivered. For support, contact customer service on 800-38888."
+msgstr[0] ""
+msgstr[1] "مرحباً، تم توصيل منتج من طلبيتك %(order_nr)s من نون. للحصول على المساعدة، يرجى الاتصال بخدمة العملاء على الرقم 80038888."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "مرحباً، تم توصيل بعض المنتجات من طلبيتك %(order_nr)s من نون. للحصول على المساعدة، يرجى الاتصال بخدمة العملاء على الرقم 80038888."
+
+msgid "We have received a return request for an item you ordered from noon. We will reach out to you to schedule a pickup."
+msgid_plural "We have received a return request for items you ordered from noon. We will reach out to you soon to schedule a pickup."
+msgstr[0] ""
+msgstr[1] "لقد تلقينا طلب إرجاع لمنتج طلبته من نون. لا داعي للقلق، أحد أفراد الفريق لدينا سيتواصل معك قريباً لتحديد موعد لاستلامه."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "لقد تلقينا طلب إرجاع لمنتجات طلبتها من نون. فسيتواصل أحد أفراد فريق العمل لدينا بك قريباً لتحديد موعد للاستلام."
+
+msgid "An item from your noon order (%(order_nr)s) has been successfully delivered to you."
+msgid_plural "Items from your noon order (%(order_nr)s) have been successfully delivered to you."
+msgstr[0] ""
+msgstr[1] "تمام التمام! تم توصيل منتج من طلبيتك %(order_nr)s من نون بنجاح."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "تمام التمام! تم توصيل بعض المنتجات من طلبيتك %(order_nr)s بنجاح."
+
+msgid "Your item has been delivered!"
+msgid_plural "Your items have been delivered!"
+msgstr[0] ""
+msgstr[1] "تم توصيل المنتج الخاص بك!"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "تم تسليم المنتجات الخاصة بك بنجاح!"
+
+msgid "An item from your order has been cancelled"
+msgid_plural "A few items from your order have been cancelled"
+msgstr[0] ""
+msgstr[1] "تم إلغاء منتج من طلبيتك"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "تم إلغاء بعض المنتجات من طلبيتك"
+
+msgid "Your item has been shipped!"
+msgid_plural "Your items have been shipped!"
+msgstr[0] ""
+msgstr[1] "تم شحن منتجك!"
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "تم شحن بعض منتجاتك!"
+
+msgid "Sorted. Your item has been delivered."
+msgid_plural "Sorted. Your items have been delivered."
+msgstr[0] ""
+msgstr[1] "تم توصيل منتجك بنجاح."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "تم تسليم بعض منتجاتك بنجاح."
+
+msgid "We regret to inform you that an item from order (%(order_nr)s) has been cancelled. For support, contact customer service on 800-38888."
+msgid_plural "We regret to inform you that a few items from order (%(order_nr)s) have been cancelled. For support, contact customer service on 800-38888."
+msgstr[0] ""
+msgstr[1] "معذرة تم إلغاء منتج من طلبيتك %(order_nr)s. لمزيد من المعلومات، يرجى الاتصال بخدمة العملاء على الرقم 80038888."
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] "معذرة، تم إلغاء بعض المنتجات من الطلبية %(order_nr)s. لمزيد من المعلومات، يرجى الاتصال بخدمة العملاء على الرقم 80038888."
+
