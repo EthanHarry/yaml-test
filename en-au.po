@@ -1,0 +1,360 @@
+# 
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-10T02:31:31Z\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Hello %(name)s"
+msgstr ""
+
+msgid "If you need further assistance, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888"
+msgstr ""
+
+msgid "Give your home the ultimate upgrade"
+msgstr ""
+
+msgid "AED %(total)s"
+msgstr ""
+
+msgid "We'll also throw in <strong>special offers</strong> because we think you're awesome."
+msgstr ""
+
+msgid "View Order Details"
+msgstr ""
+
+msgid "What you want to wear, right here, right now"
+msgstr ""
+
+msgid "We regret to inform you that your order (%(order_nr)s) has been cancelled."
+msgstr ""
+
+msgid "Home &amp; Kitchen"
+msgstr ""
+
+msgid "Unfortunately, the seller wasn’t able to fulfill your order. We sincerely apologise for the inconvenience caused."
+msgstr ""
+
+msgid "Unfortunately, there was a quality control problem that prevents us from fulfilling your order. We sincerely apologise for the inconvenience caused."
+msgstr ""
+
+msgid "Hello! Your noon order (%(order_nr)s) has been delivered. For support, contact customer service on 800-38888."
+msgstr ""
+
+msgid "Your noon order has been delivered!"
+msgstr ""
+
+msgid "Your noon order (%(order_nr)s) has been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgstr ""
+
+msgid "You are receiving this email as <strong>%(email)s</strong> is registered on noon.com."
+msgstr ""
+
+msgid "Electronics"
+msgstr ""
+
+msgid "HELP CENTRE"
+msgstr ""
+
+msgid "If you need further assistance, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888."
+msgstr ""
+
+msgid "<a href=\"%(shipment_url)s\" target=\"_blank\" style=\"color: #ffffff; text-decoration:none;\">Track this Order</a>"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Your order %(order_nr)s has been confirmed"
+msgstr ""
+
+msgid "AED %(subtotal)s"
+msgstr ""
+
+msgid "Gadgets you'll Need. Want. Love."
+msgstr ""
+
+msgid "The noon team"
+msgstr ""
+
+msgid "Thank you for your order!"
+msgstr ""
+
+msgid "View Return Request"
+msgstr ""
+
+msgid "If you need any assistance with your return request, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888"
+msgstr ""
+
+msgid "Thank you for choosing noon. We have received your order (%(order_nr)s) and will ship it out soon. For support, contact customer service on 800-38888."
+msgstr ""
+
+msgid "We'll send you a shipping confirmation email as soon as your order is on its way."
+msgstr ""
+
+msgid "Now that you're on board, you're about to discover more of what noon has to offer."
+msgstr ""
+
+msgid "Order No:"
+msgstr ""
+
+msgid "We hope you enjoyed shopping with us."
+msgstr ""
+
+msgid "Shipping Fee"
+msgstr ""
+
+msgid "Reset your noon password"
+msgstr ""
+
+msgid "Time to come up with a more memorable password"
+msgstr ""
+
+msgid "Sold by %(seller)s"
+msgstr ""
+
+msgid "Pickup Location"
+msgstr ""
+
+msgid "PHONE SUPPORT"
+msgstr ""
+
+msgid "Ordered"
+msgstr ""
+
+msgid "We all forget sometimes. Don’t worry, we’re here to save the day, click the button below to update your password."
+msgstr ""
+
+msgid "Your order (%(order_nr)s) has been cancelled"
+msgstr ""
+
+msgid "Want to be the first to know about the <strong>next sale</strong>? We'll make it happen."
+msgstr ""
+
+msgid "Thank You,"
+msgstr ""
+
+msgid "Your noon order (%(order_nr)s) has been successfully delivered to you."
+msgstr ""
+
+msgid "Your noon order has been shipped!"
+msgstr ""
+
+msgid "Soon, so very soon."
+msgstr ""
+
+msgid "Delivered"
+msgstr ""
+
+msgid "If you need any further assistance with your order, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888"
+msgstr ""
+
+msgid "We'll notify you when your order is shipped out."
+msgstr ""
+
+msgid "Receive it by %(delivery_date)s"
+msgstr ""
+
+msgid "Your noon order %(number)s has been confirmed and should be with you by 3 days!"
+msgstr ""
+
+msgid "noon"
+msgstr ""
+
+msgid "Shipping Address"
+msgstr ""
+
+msgid "We sincerely apologise for the inconvenience caused."
+msgstr ""
+
+msgid "Your noon return request"
+msgstr ""
+
+msgid "Sorted. Your order has been delivered."
+msgstr ""
+
+msgid "Terms of Sale"
+msgstr ""
+
+msgid "You requested for this cancellation."
+msgstr ""
+
+msgid "Your order has been cancelled"
+msgstr ""
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "If you need any assistance, please get in touch with our seller support team at <a href=\"mailto:seller@noon.com\">seller@noon.com</a> or call us on 800-36006."
+msgstr ""
+
+msgid "Payment:"
+msgstr ""
+
+msgid "You've got great taste! Thank you for shopping with us."
+msgstr ""
+
+msgid "Baby Products"
+msgstr ""
+
+msgid "Terms of Use"
+msgstr ""
+
+msgid "AED %(shipping_fee)s"
+msgstr ""
+
+msgid "If you need any assistance, please get in touch with our customer service team at care@noon.com, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on 800-38888."
+msgstr ""
+
+msgid "Order Total:"
+msgstr ""
+
+msgid "Fashion"
+msgstr ""
+
+msgid "Hello! Please use %(code)s to verify your phone number"
+msgstr ""
+
+msgid "Quantity : %(qty)s"
+msgstr ""
+
+msgid "We wanted to let you know that your noon order (%(order_nr)s), has been dispatched and will be delivered to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgstr ""
+
+msgid "Welcome to noon!"
+msgstr ""
+
+msgid "If you prefer to choose another slot for your delivery, please visit:"
+msgstr ""
+
+msgid "We regret to inform you that your order (%(order_nr)s) has been cancelled. For support, contact customer service on 800-38888."
+msgstr ""
+
+msgid "Return requested."
+msgstr ""
+
+msgid "Your noon order (%(number)s) has been received and is currently being processed by our team."
+msgstr ""
+
+msgid "Beauty"
+msgstr ""
+
+msgid "Thank you for choosing noon."
+msgstr ""
+
+msgid "Your beauty kit heroes are here"
+msgstr ""
+
+msgid "Order Number"
+msgstr ""
+
+msgid "AED %(price)s"
+msgstr ""
+
+msgid "Your order %(order_nr)s has been confirmed successfully!"
+msgstr ""
+
+msgid "EMAIL SUPPORT"
+msgstr ""
+
+msgid "Shipped"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "SHIPPING ADDRESS"
+msgstr ""
+
+msgid "© 2017 noon. Noon E Commerce Owned By Noon AD Holdings One Person Company LLC P.O. Box 9421, Dubai, United Arab Emirates."
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Return Request"
+msgstr ""
+
+msgid "ORDER SUMMARY"
+msgstr ""
+
+msgid "Your order confirmation is here"
+msgstr ""
+
+msgid "Want an alert on legendary <strong>new brands</strong>? You've got it!"
+msgstr ""
+
+msgid "Explore"
+msgstr ""
+
+msgid "We regret to inform you that an item from order (%(order_nr)s) has been cancelled."
+msgid_plural "We regret to inform you that a few items from order (%(order_nr)s) have been cancelled."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "An item from your noon order (%(order_nr)s) has been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgid_plural "Items from your noon order (%(order_nr)s) have been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "We have received a return request for an item you ordered from noon. We will reach out to schedule a pickup."
+msgid_plural "We have received a return request for items you ordered from noon. We will reach out to schedule a pickup."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "An item from order (%(order_nr)s) has been cancelled"
+msgid_plural "A few items from order (%(order_nr)s) have been cancelled"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "We wanted to let you know that an item from noon order (%(order_nr)s), has been dispatched. We will deliver it to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgid_plural "We wanted to let you know that items from your noon order (%(order_nr)s), have been dispatched. We will deliver them to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Hello! An item from your noon order (%(order_nr)s) has been delivered. For support, contact customer service on 800-38888."
+msgid_plural "Hello! Items from your noon order (%(order_nr)s) have been delivered. For support, contact customer service on 800-38888."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "We have received a return request for an item you ordered from noon. We will reach out to you to schedule a pickup."
+msgid_plural "We have received a return request for items you ordered from noon. We will reach out to you soon to schedule a pickup."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "An item from your noon order (%(order_nr)s) has been successfully delivered to you."
+msgid_plural "Items from your noon order (%(order_nr)s) have been successfully delivered to you."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Your item has been delivered!"
+msgid_plural "Your items have been delivered!"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "An item from your order has been cancelled"
+msgid_plural "A few items from your order have been cancelled"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Your item has been shipped!"
+msgid_plural "Your items have been shipped!"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Sorted. Your item has been delivered."
+msgid_plural "Sorted. Your items have been delivered."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "We regret to inform you that an item from order (%(order_nr)s) has been cancelled. For support, contact customer service on 800-38888."
+msgid_plural "We regret to inform you that a few items from order (%(order_nr)s) have been cancelled. For support, contact customer service on 800-38888."
+msgstr[0] ""
+msgstr[1] ""
+
