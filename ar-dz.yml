@@ -11,5 +11,5 @@ en:
         المرور
       access_token_invalid: تصريح الدخول غير صالح
       video_request:
-        over: ''
-      video_request1: ''
+        over: هذه مكالمة الفيديو
+      video_request1: لا شيء
