@@ -1,0 +1,624 @@
+# 
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-15T16:21:24Z\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+
+#: common/footer.html:19
+msgid "PHONE SUPPORT"
+msgstr "PHONE SUPPORT"
+
+#: common/footer.html:55
+msgid "EMAIL SUPPORT"
+msgstr ""
+
+#: common/footer.html:90
+msgid "HELP CENTRE"
+msgstr ""
+
+#: common/footer.html:161 common/seller_footer.html:56
+msgid "You are receiving this email as <strong>%(email)s</strong> is registered on noon.com."
+msgstr ""
+
+#: common/footer.html:172 common/seller_footer.html:67
+msgid "© 2017 noon."
+msgstr ""
+
+#: common/footer.html:182 common/seller_footer.html:77
+msgid "Privacy Policy"
+msgstr ""
+
+#: common/footer.html:187 common/seller_footer.html:82
+msgid "Terms of Use"
+msgstr ""
+
+#: common/footer.html:192 common/seller_footer.html:87
+msgid "Terms of Sale"
+msgstr ""
+
+#: common/header.html:276
+msgid "Electronics"
+msgstr ""
+
+#: common/header.html:283
+msgid "Fashion"
+msgstr ""
+
+#: common/header.html:290
+msgid "Grocery"
+msgstr ""
+
+#: common/header.html:298
+msgid "Home &amp; Kitchen"
+msgstr ""
+
+#: common/header.html:306
+msgid "Baby Products"
+msgstr ""
+
+#: common/header.html:314
+msgid "Beauty"
+msgstr ""
+
+#: common/item_detail.html:27
+msgid "Quantity : %(qty)s"
+msgstr ""
+
+#: common/item_detail.html:35
+msgid "Receive it by %(delivery_date)s"
+msgstr ""
+
+#: common/item_detail.html:59
+msgid "Sold by %(seller)s"
+msgstr ""
+
+#: common/order_summary.html:15
+msgid "ORDER SUMMARY"
+msgstr ""
+
+#: common/order_summary.html:22
+msgid "Order No:"
+msgstr ""
+
+#: common/order_summary.html:37
+msgid "Order Total:"
+msgstr ""
+
+#: common/order_summary.html:52
+msgid "Payment:"
+msgstr ""
+
+#: common/order_summary.html:62
+msgid "noon credits"
+msgstr ""
+
+#: common/order_summary.html:79
+msgid "SHIPPING ADDRESS"
+msgstr ""
+
+#: common/order_summary.html:113 items_cancelled/email.html:122
+#: items_shipped/email.html:258
+msgid "View Order Details"
+msgstr ""
+
+#: common/seller_header.html:274
+msgid "My Account"
+msgstr ""
+
+#: customer_password_reset/data.yaml:1 customer_password_reset/email.html:16
+#: seller_password_reset/data.yaml:1
+msgid "Reset your noon password"
+msgstr ""
+
+#: customer_password_reset/email.html:30 items_cancelled/email.html:36
+#: items_delivered/email.html:38 items_shipped/email.html:26
+#: order_confirmed/email.html:26 order_placed/email.html:27
+#: return_requested/email.html:30 seller_approved/email.html:30
+#: seller_fulfillment_request/email.html:27 seller_password_reset/email.html:30
+msgid "Hello %(name)s"
+msgstr ""
+
+#: customer_password_reset/email.html:41 seller_password_reset/email.html:41
+msgid "We all forget sometimes. Don’t worry, we’re here to save the day, click the button below to update your password."
+msgstr ""
+
+#: customer_password_reset/email.html:61 seller_password_reset/email.html:61
+msgid "Reset Password"
+msgstr ""
+
+#: customer_password_reset/email.html:75 items_delivered/email.html:62
+msgid "If you need any further assistance, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on %(helpline)s."
+msgstr ""
+
+#: customer_password_reset/email.html:86 customer_welcome/email.html:215
+#: items_cancelled/email.html:158 items_delivered/email.html:200
+#: items_shipped/email.html:294 order_confirmed/email.html:215
+#: order_placed/email.html:285 return_requested/email.html:150
+#: seller_approved/email.html:92 seller_fulfillment_request/email.html:208
+#: seller_password_reset/email.html:84
+msgid "Thank You,"
+msgstr ""
+
+#: customer_password_reset/email.html:97 customer_welcome/email.html:226
+#: items_cancelled/email.html:169 items_delivered/email.html:211
+#: items_shipped/email.html:305 order_placed/email.html:296
+#: return_requested/email.html:161 seller_approved/email.html:103
+#: seller_fulfillment_request/email.html:219
+#: seller_password_reset/email.html:95
+msgid "The noon team"
+msgstr ""
+
+#: customer_phone_verify/data.yaml:2
+msgid "Hello! Please use %(code)s or visit %(link)s to verify your phone number."
+msgstr ""
+
+#: customer_welcome/data.yaml:1
+msgid "Welcome to noon!"
+msgstr ""
+
+#: customer_welcome/email.html:27
+msgid "Now that you're on board, you're about to discover more of what noon has to offer."
+msgstr ""
+
+#: customer_welcome/email.html:28
+msgid "Want an alert on legendary <strong>new brands</strong>? You've got it!"
+msgstr ""
+
+#: customer_welcome/email.html:29
+msgid "Want to be the first to know about the <strong>next sale</strong>? We'll make it happen."
+msgstr ""
+
+#: customer_welcome/email.html:30
+msgid "We'll also throw in <strong>special offers</strong> because we think you're awesome."
+msgstr ""
+
+#: customer_welcome/email.html:46
+msgid "Explore"
+msgstr ""
+
+#: customer_welcome/email.html:104
+msgid "Gadgets you'll Need. Want. Love."
+msgstr ""
+
+#: customer_welcome/email.html:130
+msgid "What you want to wear, right here, right now"
+msgstr ""
+
+#: customer_welcome/email.html:161
+msgid "Your beauty kit heroes are here"
+msgstr ""
+
+#: customer_welcome/email.html:189
+msgid "Give your home the ultimate upgrade"
+msgstr ""
+
+#: items_cancelled/data.yaml:3
+msgid "We regret to inform you that your order (%(order_nr)s) has been cancelled. For support, contact customer service on %(helpline)s."
+msgstr ""
+
+#: items_cancelled/data.yaml:7
+msgid "We regret to inform you that an item from order (%(order_nr)s) has been cancelled. For support, contact customer service on %(helpline)s."
+msgid_plural "We regret to inform you that a few items from order (%(order_nr)s) have been cancelled. For support, contact customer service on %(helpline)s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_cancelled/data.yaml:15
+msgid "Your order (%(order_nr)s) has been cancelled"
+msgstr ""
+
+#: items_cancelled/data.yaml:19
+msgid "An item from order (%(order_nr)s) has been cancelled"
+msgid_plural "A few items from order (%(order_nr)s) have been cancelled"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_cancelled/email.html:17
+msgid "Your order has been cancelled"
+msgstr ""
+
+#: items_cancelled/email.html:19
+msgid "An item from your order has been cancelled"
+msgid_plural "A few items from your order have been cancelled"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_cancelled/email.html:49
+msgid "We regret to inform you that your order (%(order_nr)s) has been cancelled."
+msgstr ""
+
+#: items_cancelled/email.html:53
+msgid "We regret to inform you that an item from order (%(order_nr)s) has been cancelled."
+msgid_plural "We regret to inform you that a few items from order (%(order_nr)s) have been cancelled."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_cancelled/email.html:61
+msgid "You requested for this cancellation."
+msgstr ""
+
+#: items_cancelled/email.html:64
+msgid "Unfortunately, there was a quality control problem that prevents us from fulfilling your order. We sincerely apologise for the inconvenience caused."
+msgstr ""
+
+#: items_cancelled/email.html:69
+msgid "Unfortunately, the seller wasn’t able to fulfill your order. We sincerely apologise for the inconvenience caused."
+msgstr ""
+
+#: items_cancelled/email.html:73
+msgid "Unfortunately, we ran out of stock and sincerely apologise for the inconvenience caused."
+msgstr ""
+
+#: items_cancelled/email.html:77
+msgid "We sincerely apologise for the inconvenience caused."
+msgstr ""
+
+#: items_cancelled/email.html:80
+msgid "If you need any assistance, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on %(helpline)s."
+msgstr ""
+
+#: items_cancelled/email.html:98 items_shipped/email.html:196
+msgid "Order Number"
+msgstr ""
+
+#: items_delivered/data.yaml:3
+msgid "Your noon order has been delivered!"
+msgstr ""
+
+#: items_delivered/data.yaml:7
+msgid "Your item has been delivered!"
+msgid_plural "Your items have been delivered!"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_delivered/data.yaml:15
+msgid "Hello! Your noon order (%(order_nr)s) has been delivered. For support, contact customer service on %(helpline)s."
+msgstr ""
+
+#: items_delivered/data.yaml:19
+msgid "Hello! An item from your noon order (%(order_nr)s) has been delivered. For support, contact customer service on %(helpline)s."
+msgid_plural "Hello! Items from your noon order (%(order_nr)s) have been delivered. For support, contact customer service on %(helpline)s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_delivered/email.html:17
+msgid "Sorted. Your order has been delivered."
+msgstr ""
+
+#: items_delivered/email.html:21
+msgid "Sorted. Your item has been delivered."
+msgid_plural "Sorted. Your items have been delivered."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_delivered/email.html:50
+msgid "Your noon order (%(order_nr)s) has been successfully delivered to you."
+msgstr ""
+
+#: items_delivered/email.html:54
+msgid "An item from your noon order (%(order_nr)s) has been successfully delivered to you."
+msgid_plural "Items from your noon order (%(order_nr)s) have been successfully delivered to you."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_delivered/email.html:60
+msgid "We hope you enjoyed shopping with us."
+msgstr ""
+
+#: items_delivered/email.html:82 items_shipped/email.html:100
+#: order_placed/email.html:59
+msgid "Ordered"
+msgstr ""
+
+#: items_delivered/email.html:98 items_shipped/email.html:116
+#: order_placed/email.html:75
+msgid "Processing"
+msgstr ""
+
+#: items_delivered/email.html:114 items_shipped/email.html:132
+#: order_placed/email.html:91
+msgid "Shipped"
+msgstr ""
+
+#: items_delivered/email.html:130 items_shipped/email.html:148
+#: order_placed/email.html:107
+msgid "Delivered"
+msgstr ""
+
+#: items_shipped/data.yaml:3
+msgid "Your noon order (%(order_nr)s) has been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgstr ""
+
+#: items_shipped/data.yaml:7
+msgid "An item from your noon order (%(order_nr)s) has been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgid_plural "Items from your noon order (%(order_nr)s) have been shipped and will be with you before %(timeslot)s on %(date)s. To pick a different delivery slot, visit %(shipment_url)s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_shipped/data.yaml:15
+msgid "Your noon order has been shipped!"
+msgstr ""
+
+#: items_shipped/data.yaml:19
+msgid "Your item has been shipped!"
+msgid_plural "Your items have been shipped!"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_shipped/email.html:15
+msgid "Soon, so very soon."
+msgstr ""
+
+#: items_shipped/email.html:38
+msgid "We wanted to let you know that your noon order (%(order_nr)s), has been dispatched and will be delivered to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgstr ""
+
+#: items_shipped/email.html:40
+msgid "We wanted to let you know that an item from noon order (%(order_nr)s), has been dispatched. We will deliver it to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgid_plural "We wanted to let you know that items from your noon order (%(order_nr)s), have been dispatched. We will deliver them to you before <strong>%(timeslot)s</strong> on <strong>%(date)s</strong>."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: items_shipped/email.html:47
+msgid "If you prefer to choose another slot for your delivery:"
+msgstr ""
+
+#: items_shipped/email.html:66
+msgid "Schedule Delivery"
+msgstr ""
+
+#: items_shipped/email.html:80
+msgid "If you need any further assistance with your order, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on %(helpline)s."
+msgstr ""
+
+#: items_shipped/email.html:216
+msgid "Shipping Address"
+msgstr ""
+
+#: items_shipped/email.html:246
+msgid "<a href=\"%(shipment_url)s\" target=\"_blank\" style=\"color: #ffffff; text-decoration:none;\">Track this Order</a>"
+msgstr ""
+
+#: order_confirmed/data.yaml:1
+msgid "Your order %(order_nr)s has been confirmed"
+msgstr ""
+
+#: order_confirmed/data.yaml:2
+msgid "Your order %(order_nr)s has been confirmed successfully!"
+msgstr ""
+
+#: order_confirmed/email.html:15
+msgid "Your order confirmation is here"
+msgstr ""
+
+#: order_confirmed/email.html:36
+msgid "You've got great taste! Thank you for shopping with us."
+msgstr ""
+
+#: order_confirmed/email.html:46
+msgid "Your noon order %(number)s has been confirmed and should be with you by 3 days!"
+msgstr ""
+
+#: order_confirmed/email.html:205
+msgid "We'll send you a shipping confirmation email as soon as your order is on its way."
+msgstr ""
+
+#: order_confirmed/email.html:226
+msgid "noon"
+msgstr ""
+
+#: order_placed/data.yaml:1
+msgid "Thank you for your order!"
+msgstr ""
+
+#: order_placed/data.yaml:2
+msgid "Thank you for choosing noon. We have received your order (%(order_nr)s) and will ship it out soon. For support, contact customer service on %(helpline)s."
+msgstr ""
+
+#: order_placed/email.html:16
+msgid "Thank you for choosing noon."
+msgstr ""
+
+#: order_placed/email.html:37
+msgid "Your noon order (%(number)s) has been received and is currently being processed by our team."
+msgstr ""
+
+#: order_placed/email.html:39
+msgid "We'll notify you when your order is shipped out."
+msgstr ""
+
+#: order_placed/email.html:176
+msgid "Subtotal"
+msgstr ""
+
+#: order_placed/email.html:187
+msgid "Shipping Fee"
+msgstr ""
+
+#: order_placed/email.html:193
+msgid "Free"
+msgstr ""
+
+#: order_placed/email.html:205
+msgid "COD Fee"
+msgstr ""
+
+#: order_placed/email.html:218
+msgid "Discount"
+msgstr ""
+
+#: order_placed/email.html:233 seller_fulfillment_request/email.html:187
+msgid "Total"
+msgstr ""
+
+#: order_placed/email.html:248
+msgid "Credits Used"
+msgstr ""
+
+#: order_placed/email.html:261
+msgid "Balance"
+msgstr ""
+
+#: return_requested/data.yaml:1
+msgid "Your noon return request"
+msgstr ""
+
+#: return_requested/data.yaml:3
+msgid "We have received a return request for an item you ordered from noon. We will reach out to schedule a pickup."
+msgid_plural "We have received a return request for items you ordered from noon. We will reach out to schedule a pickup."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: return_requested/email.html:16
+msgid "Return requested."
+msgstr ""
+
+#: return_requested/email.html:41
+msgid "We have received a return request for an item you ordered from noon. We will reach out to you to schedule a pickup."
+msgid_plural "We have received a return request for items you ordered from noon. We will reach out to you soon to schedule a pickup."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: return_requested/email.html:46
+msgid "If you need any assistance with your return request, please get in touch with our customer service team at <a href=\"mailto:care@noon.com\">care@noon.com</a>, <a href=\"%(website_url)s\" target=\"_blank\">live-chat</a> with us online, or call us on %(helpline)s."
+msgstr ""
+
+#: return_requested/email.html:65
+msgid "Return Request"
+msgstr ""
+
+#: return_requested/email.html:85
+msgid "Pickup Location"
+msgstr ""
+
+#: return_requested/email.html:114
+msgid "View Return Request"
+msgstr ""
+
+#: seller_approved/data.yaml:1
+msgid "You’re all set!"
+msgstr ""
+
+#: seller_approved/email.html:16
+msgid "Mabrook! Your store has been approved"
+msgstr ""
+
+#: seller_approved/email.html:41
+msgid "The good news is, your store has been approved and is ready to go live. We are always looking to improve our services as well as your selling experience. We will review your store regularly for any updates."
+msgstr ""
+
+#: seller_approved/email.html:62
+msgid "Login to your store"
+msgstr ""
+
+#: seller_approved/email.html:75 seller_password_reset/email.html:74
+msgid "If you need any assistance, please get in touch with our seller support team at <a href=\"mailto:seller@noon.com\">seller@noon.com</a> or call us on 800-36006."
+msgstr ""
+
+#: seller_approved/email.html:82
+msgid "Happy selling!"
+msgstr ""
+
+#: seller_fulfillment_request/email.html:16
+msgid "A new order request for you"
+msgstr ""
+
+#: seller_fulfillment_request/email.html:39
+msgid "Congratulations! You have a new order request."
+msgstr ""
+
+#: seller_fulfillment_request/email.html:43
+msgid "Congratulations! You’ve received an order on an item listed under Fufilled by noon. You can track all your sales through seller lab by clicking on \"Orders\"."
+msgstr ""
+
+#: seller_fulfillment_request/email.html:49
+msgid "Ensure a speedy and efficient experience for your buyer – login to seller lab to accept the order."
+msgstr ""
+
+#: seller_fulfillment_request/email.html:72
+msgid "Proceed to seller lab to accept the order"
+msgstr ""
+
+#: seller_fulfillment_request/email.html:86
+msgid "After all a happy shopper makes a happy store!"
+msgstr ""
+
+#: seller_fulfillment_request/email.html:90
+msgid "For further clarifications on this process, call our dedicated seller support team on 8003-6006."
+msgstr ""
+
+#: seller_fulfillment_request/email.html:112
+msgid "View Orders"
+msgstr ""
+
+#: seller_fulfillment_request/email.html:126
+msgid "For more information, contact our dedicated seller support team on 8003-6006."
+msgstr ""
+
+#: seller_fulfillment_request/email.html:147
+msgid "Fulfillment Request"
+msgstr ""
+
+#: seller_fulfillment_request/email.html:192
+msgid "AED %(total)s"
+msgstr ""
+
+#: seller_password_reset/email.html:16
+msgid "Time to come up with a more memorable password"
+msgstr ""
+
