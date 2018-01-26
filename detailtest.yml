@@ -1,0 +1,10 @@
+en:
+  translation_name: English (US)
+  mobile_locale: en_US
+    numbers:
+      decimal: 1.254
+      decimal2: 1.4
+      boolean: true
+      boolean2: false
+      stringnoquotes: stringnoquotes
+      stringquotes: "stringquotes"
