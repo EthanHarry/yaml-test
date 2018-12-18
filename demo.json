@@ -1,0 +1,10 @@
+{
+  "Greeting" : "Hello!!! How are you? Welcome to your homepage {{user_name}}! How can we help you?",
+  "Returning" : "Welcome, returning customer! How can we halp you?",
+  "Warning" : "Make sure you save all content before logging off!",
+  "Contact" : "Contact us on google.",
+  "Login" : "Already have an account? Click here to sig!!!!n in.",
+  "Forgot password" : "Click here to reset your password.",
+  "TestTerms": "PayFromPhone is not available in your area",
+  "addedKey": "He was the editor-in-chief of Marvel Comics,[2] and later its publisher[3] and chairman,[4] leading its expansion from a small division of a publishing house to a large multimedia corporation"
+}
