@@ -1,0 +1,10 @@
+en-us:
+  translation_name: 英語（US）
+  mobile_locale: en_US
+  data:
+    decimal: 1.254
+    decimal2: 1.4
+    boolean: true
+    boolean2: false
+    stringnoquotes: stringnoquotes
+    stringquotes: stringquotes
